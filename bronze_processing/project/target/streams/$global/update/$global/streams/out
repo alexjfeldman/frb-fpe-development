@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mjava.io.IOException: Permission denied, file: /root/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-1.1.2.jar[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.io.MilliPosixBase.checkedIO(Milli.scala:100)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.io.Linux64Milli$.getModifiedTimeNative(Milli.scala:209)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.io.Linux64Milli$.getModifiedTimeNative(Milli.scala:204)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.io.MilliNative.getModifiedTime(Milli.scala:67)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.io.Milli$.getModifiedTime(Milli.scala:376)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.getModifiedTime(IO.scala:1143)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.getModifiedTimeOrZero(IO.scala:1212)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.LibraryManagement$.$anonfun$fileUptodate$1(LibraryManagement.scala:130)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.runtime.java8.JFunction1$mcZJ$sp.apply(JFunction1$mcZJ$sp.java:12)[0m

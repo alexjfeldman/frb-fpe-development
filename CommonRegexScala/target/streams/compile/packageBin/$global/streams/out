@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/hadoop/CommonRegexScala/target/scala-2.10/commonregex-scala_2.10-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$_emails$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$_emails$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$_times$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$_times$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$_phones$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$_phones$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$emails$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$emails$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$_links$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$_links$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$phones$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$phones$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$_dates$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$_dates$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$_ips$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$_ips$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$dates$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$dates$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$ips$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$ips$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$times$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$times$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commonregex/CommonRegex$$anonfun$links$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hadoop/CommonRegexScala/target/scala-2.10/classes/commonregex/CommonRegex$$anonfun$links$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
